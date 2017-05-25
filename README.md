@@ -9,7 +9,7 @@ Usages
 nodejs app.js name /path/to/folder
 ```
 
-Will renames the files in ```/path/to/folder``` to
+Will rename the files in ```/path/to/folder``` to
 
 ```
 00_name.ext
